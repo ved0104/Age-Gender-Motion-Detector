@@ -58,7 +58,7 @@ To set up the project locally:
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at [Your Email].
+If you have any questions or feedback, feel free to contact me at dubeyved04@gmail.com
 
 ---
 
